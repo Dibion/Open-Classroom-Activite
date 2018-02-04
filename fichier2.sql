@@ -1,1 +1,1 @@
-select "Hello world" from dual;
+select "Hello world v2.0.0" from dual;
